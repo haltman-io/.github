@@ -1,6 +1,9 @@
 ## Haltman
 Haltman is "halt" + "man"
 
+### Available services:
+* https://enclosed.haltman.io/ Send private and secure notes
+
 ### What is
 Haltman is a pseudonym created to share knowledge freely, without the risk of sanctions or conflicts of interest. **Haltman.io does not represent a company**. To be honest, Haltman.io doesn't represent any group or team. I just wanted to save what I'd already done without mixing it with my other identities, and I was too lazy to create another GitHub account. It is simply a public communication platform for sharing knowledge without direct exposure.
 
