@@ -19,3 +19,8 @@ Here, I share The Hacker's Choice's stance on this. My contact: `abuse@haltman.i
 > Read more at: https://www.thc.org/abuse/
 
 ### Ignore, just for Mastodon verification
+<a rel="me" href="https://infosec.exchange/@extencil">Mastodon</a>
+<meta name="fediverse:creator" content="@extencil@infosec.exchange">
+
+<a rel="me" href="https://infosec.exchange/@extencil">Mastodon</a>
+<meta name="fediverse:creator" content="@extencil@infosec.exchange">
