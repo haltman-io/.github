@@ -17,3 +17,5 @@ I ask that you do not use anything here to carry out malicious or criminal activ
 ### Report abuse / misusage
 Here, I share The Hacker's Choice's stance on this. My contact: `abuse@haltman.io`
 > Read more at: https://www.thc.org/abuse/
+
+### Ignore, just for Mastodon verification
