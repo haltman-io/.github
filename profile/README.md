@@ -3,6 +3,7 @@ Haltman is "halt" + "man"
 
 ### Available services:
 * https://enclosed.haltman.io/ Send private and secure notes
+* https://forward.haltman.io/  Free Mail Forwarding Service
 
 ### Join us / Contact
 - Telegram: https://t.me/haltmanio
