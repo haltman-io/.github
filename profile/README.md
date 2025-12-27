@@ -2,8 +2,7 @@
 Haltman is "halt" + "man"
 
 ### Available services:
-* https://enclosed.haltman.io/ Send private and secure notes
-* https://forward.haltman.io/  Free Mail Forwarding Service
+* https://www.haltman.io/ All our projects are displayed on our website.
 
 ### Join us / Contact
 - Telegram: https://t.me/haltmanio
