@@ -1,8 +1,16 @@
 ## Haltman
 Haltman is "halt" + "man"
 
-### Available services:
-* https://www.haltman.io/ All our projects are displayed on our website.
+### Active Projects
+ * Free Mail Forwarding: https://forward.haltman.io/
+ * Free File/Notes Sharing: https://enclosed.haltman.io/
+ * GoRunAndCallMe CLI for webhook, TG and slack. Under dev: https://github.com/haltman-io/gorunandcallme
+ * Brave-Search CLI tool for Brave Search API: https://github.com/haltman-io/brave-search
+ * IP-THC CLI tool to perform queries on over 4.7 billion mapped assets: https://github.com/haltman-io/ip-thc
+ * Sub-Alter CLI tool for Domains/Subdomains Discovery: https://github.com/haltman-io/sub-alter
+ * Reverse-Whois CLI tool for Reverse WHOIS queries: https://github.com/haltman-io/reverse-whois
+ * Search-Leaks CLI tool to query data breach/leak statistics: https://github.com/haltman-io/search-leaks
+
 
 ### Join us / Contact
 - Telegram: https://t.me/haltmanio
