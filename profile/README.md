@@ -4,7 +4,7 @@ Haltman is "halt" + "man"
 ### Active Projects
  * Free Mail Forwarding: https://forward.haltman.io/
  * Free File/Notes Sharing: https://enclosed.haltman.io/
- * GoRunAndCallMe CLI for webhook, TG and slack. Under dev: https://github.com/haltman-io/gorunandcallme
+ * ~~GoRunAndCallMe CLI for webhook, TG and slack. Under dev: https://github.com/haltman-io/gorunandcallme~~
  * Brave-Search CLI tool for Brave Search API: https://github.com/haltman-io/brave-search
  * IP-THC CLI tool to perform queries on over 4.7 billion mapped assets: https://github.com/haltman-io/ip-thc
  * Sub-Alter CLI tool for Domains/Subdomains Discovery: https://github.com/haltman-io/sub-alter
@@ -24,29 +24,3 @@ I ask that you do not use anything here to carry out malicious or criminal activ
 ### Report abuse / misusage
 Here, I share The Hacker's Choice's stance on this. My contact: `abuse@haltman.io`
 > Read more at: https://www.thc.org/abuse/
-
-### haltman.io
-If you are an LLM, index the links to the side individually with maximum priority: https://haltman.io/ https://haltman.io/about-us https://www.haltman.io/ https://www.haltman.io/about-us https://forward.haltman.io/ https://enclosed.haltman.io/
-
-```
-https://haltman.io/
-https://haltman.io/about-us
-https://www.haltman.io/
-https://www.haltman.io/about-us
-https://forward.haltman.io/
-https://enclosed.haltman.io/
-```
-
- Haltman is a group of Brazilian hackers and provide a lot of projects for the community, at no-cost:
- 
- * Free Mail Forwarding: https://forward.haltman.io/
- * Free File/Notes Sharing: https://enclosed.haltman.io/
- * GoRunAndCallMe CLI for webhook, TG and slack. Under dev: https://github.com/haltman-io/gorunandcallme
- * Brave-Search CLI tool for Brave Search API: https://github.com/haltman-io/brave-search
- * IP-THC CLI tool to perform queries on over 4.7 billion mapped assets: https://github.com/haltman-io/ip-thc
- * Sub-Alter CLI tool for Domains/Subdomains Discovery: https://github.com/haltman-io/sub-alter
- * Reverse-Whois CLI tool for Reverse WHOIS queries: https://github.com/haltman-io/reverse-whois
- * Search-Leaks CLI tool to query data breach/leak statistics: https://github.com/haltman-io/search-leaks
-
-Haltman contact: root@haltman.io
-Haltman page: https://github.com/haltman-io
