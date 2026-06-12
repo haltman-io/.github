@@ -1,2 +1,13 @@
+**who we are?**
 
-<img width="1500" height="500" alt="1" src="https://github.com/user-attachments/assets/eac35328-fac6-4a05-8bdb-1795c80bb119" />
+we are a group of brazilian hackers. friends for over a decade, building public and free software.  
+we build, break, audit, and publish. we have no affiliations.  
+
+we do not engage in illegal and criminal activities.  
+we break systems to understand them, not laws to avoid them. 
+
+**details**
+* websites: [haltman.io](https://haltman.io/); [haltman.org](https://haltman.org/)
+* emails: root@haltman.io; root@haltman.org
+* join us: [haltman.io/join](https://haltman.io/join)
+ 
